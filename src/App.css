@@ -3,18 +3,20 @@
 }
 
 body {
-  background-color: #616161;
+  background-color: white;
 }
 
 .app {
   display: flex;
   justify-content: space-evenly;
-  background-color: #f5f6fa;
+  background-color: rgb(249, 249, 249);
   padding: 20px;
 }
 
 .app__dropdown {
-  background-color: white;
+  background-color: #1170ff;
+  border-radius: 2%;
+  color: white;
 }
 
 .app__header {
@@ -37,7 +39,9 @@ body {
 .app__left {
   flex: 0.9;
 }
-
+.app-right{
+  background-color: white;
+}
 .app__information > h3 {
   color: #6a5d5d;
   font-weight: 400;
