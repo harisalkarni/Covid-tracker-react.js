@@ -1,5 +1,7 @@
 # React COVID Tracker
 
+https://corona-tracker-reactjs.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
